@@ -3,7 +3,7 @@ Welcome to my machine learning projects repository! This repository contains a c
 
 This repository serves as a portfolio of my journey in exploring various aspects of machine learning. Each project is designed to showcase different concepts, including data preprocessing, model building, evaluation, and deployment. The projects cover a wide range of domains and problem types, providing a diverse learning experience.
 
-*Projects*
+*Projects*<br />
 Here's a list of projects included in this repository:<br />
 **Project 1:** Real Estate Price Prediction.
 
