@@ -6,6 +6,8 @@ This repository serves as a portfolio of my journey in exploring various aspects
 *Projects*<br />
 Here's a list of projects included in this repository:<br />
 **Project 1:** Real Estate Price Prediction.
+**Project 2:** HandWritten Digit Recognition.
+
 
 *Contributing*
 Contributions are welcome! If you have any ideas for improvements, new projects to add, or bug fixes, feel free to open an issue or submit a pull request. Please adhere to the Contributing Guidelines.
