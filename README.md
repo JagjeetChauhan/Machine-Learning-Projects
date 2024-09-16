@@ -6,6 +6,7 @@ This repository serves as a portfolio of my journey in exploring various aspects
 *Projects*<br />
 Here's a list of projects included in this repository:<br />
 **Project 1:** Real Estate Price Prediction.
+
 **Project 2:** HandWritten Digit Recognition.
 
 
